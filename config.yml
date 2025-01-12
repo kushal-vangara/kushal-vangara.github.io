@@ -75,7 +75,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Kushal_Vangara_Resume.pdf
         - name: Email
           url: mailto:kushalvangara@gmail.com
         #- name: Zoom
@@ -102,7 +102,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Kushal Vangara"
-      icon: favicon.ico
+      icon: vision-80.png
       iconHeight: 18
 
 markup:
