@@ -102,7 +102,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Kushal Vangara"
-      icon: vision-80.png
+      icon: favicon.ico
       iconHeight: 18
 
 markup:
