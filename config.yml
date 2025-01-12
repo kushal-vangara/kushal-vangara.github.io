@@ -27,7 +27,7 @@ menu:
       #   weight: 6
 
 params:
-    description: "Website param description <here>."
+    description: "Ph.D. candidate @ Florida Institute of Technology| Focus on: AI/ML, Computer Vision and Biometrics"
     author: Kushal Vangara
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Kushal Vangara 
-          subtitle: "I am a Ph.D. candidate at the Florida Institute of Technology, where my research focuses on AI, machine learning, computer vision, biometrics, and cybersecurity.  I earned an M.S. in Information Assurance and Cybersecurity from Florida Tech and a Bachelor's degree in Electronics and Communications Engineering from Jawaharlal Nehru Technological University, India. My work leverages multimodal data to model human behavior and personality traits, with a strong emphasis on improving machine learning models' robustness, fairness, and interpretability. I have contributed to advancing face recognition systems by addressing demographic biases and enhancing accuracy across diverse populations. Additionally, I have worked on person re-identification, long-distance recognition, and deepfake detection, tackling key challenges in identity verification. Passionate about ethical AI, I am driven to innovate and make an impact."
+          subtitle: "I am a Ph.D. candidate at the Florida Institute of Technology, where my research focuses on AI/ML, Computer Vision, Biometrics, and Cybersecurity.  I earned an M.S. in Information Assurance and Cybersecurity from Florida Tech and a Bachelor's degree in Electronics and Communications Engineering from Jawaharlal Nehru Technological University, India. My work leverages multimodal data to model human behavior and personality traits, with a strong emphasis on improving machine learning models' robustness, fairness, and interpretability. I have contributed to advancing face recognition systems by addressing demographic biases and enhancing accuracy across diverse populations. Additionally, I have worked on person re-identification, long-distance recognition, and deepfake detection, tackling key challenges in identity verification. Passionate about ethical AI and I am driven to innovate and make an impact."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
