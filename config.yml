@@ -22,9 +22,9 @@ menu:
         #- name: Data
         #  url: data/
         #  weight: 4 
-      # - name: Blog
-      #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-      #   weight: 6
+        - name: Blog
+          url: https://kushal-vangara.github.io/
+         #weight: 6
 
 params:
     description: "Ph.D. candidate @ Florida Institute of Technology| Focus on: AI/ML, Computer Vision and Biometrics"
@@ -32,13 +32,13 @@ params:
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
-    hideFooter: false
+    hideFooter: true
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
+    ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Kushal Vangara 
-          subtitle: "I am a Ph.D. candidate at the Florida Institute of Technology, where my research focuses on AI/ML, Computer Vision, Biometrics, and Cybersecurity.  I earned an M.S. in Information Assurance and Cybersecurity from Florida Tech and a Bachelor's degree in Electronics and Communications Engineering from Jawaharlal Nehru Technological University, India. My work leverages multimodal data to model human behavior and personality traits, with a strong emphasis on improving machine learning models' robustness, fairness, and interpretability. I have contributed to advancing face recognition systems by addressing demographic biases and enhancing accuracy across diverse populations. Additionally, I have worked on person re-identification, long-distance recognition, and deepfake detection, tackling key challenges in identity verification. Passionate about ethical AI and I am driven to innovate and make an impact."
+          subtitle: "As a Ph.D. candidate at the Florida Institute of Technology, my research bridges artificial intelligence, computer vision, and cybersecurity to address pressing challenges in biometrics and human behavior modeling. I hold an M.S. in Information Assurance and Cybersecurity from Florida Tech and a Bachelor’s degree in Electronics and Communications Engineering from Jawaharlal Nehru Technological University, India. My current work leverages multimodal data to model human behavior and personality traits, with a strong emphasis on improving machine learning models' robustness, fairness, and interpretability. I have contributed to advancing face recognition systems by addressing demographic biases and enhancing accuracy across diverse populations. Additionally, I have worked on person re-identification, long-distance recognition, and deepfake detection, tackling key challenges in identity verification. Passionate about ethical AI and I aim to shape technologies that prioritize transparency, inclusivity, and societal impact."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -70,8 +70,8 @@ params:
             #  url: tags/
             #- name: Archive
             #  url: archive/
-            - name: Blog
-              url: https://kushal-vangara.github.io/
+            #- name: Blog
+            #  url: https://kushal-vangara.github.io/
 
     socialIcons:
         - name: CV
